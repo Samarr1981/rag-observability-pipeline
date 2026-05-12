@@ -1,0 +1,5 @@
+.env
+venv/
+rag_paper.pdf
+__pycache__/
+*.pyc
